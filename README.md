@@ -33,7 +33,7 @@
   - [廖雪峰的Git基础教程](https://www.liaoxuefeng.com/wiki/896043488029600)
   - [GitHub-教育大礼包](https://education.github.com/)
   - [阿里云-国内使用更顺畅](code.aliyun.com)
-  - [OverLeaf](https://www.overleaf.com/)-Latex协同编辑平台
+- [OverLeaf](https://www.overleaf.com/)-Latex协同编辑平台
 
 ## Linux 基础
 
@@ -42,6 +42,7 @@
 ## 机器学习入门
 
 - [迁移学习快速入门](https://github.com/jindongwang/transferlearning)
+- [生成对抗模型](https://github.com/znxlwm/pytorch-generative-model-collections)-Pytorch
 
 ## 常用框架
 
