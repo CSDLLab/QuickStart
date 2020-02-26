@@ -1,7 +1,8 @@
 # 快速开始
 
 这是一个快速进入实验室合作的入门引导
-
+## 理论工作
+- 凸优化 Convex Optimization Algorithms and Complexity （已上传）
 ## Python 基础
 
 - Python 安装 [Anaconda国内镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
