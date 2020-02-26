@@ -1,8 +1,11 @@
 # 快速开始
 
 这是一个快速进入实验室合作的入门引导
+
 ## 理论工作
-- 凸优化 Convex Optimization Algorithms and Complexity （已上传）
+
+- 凸优化 Convex Optimization Algorithms and Complexity [下载](books/Convex%20Optimization%20Algorithms%20and%20Complexity.pdf)
+
 ## Python 基础
 
 - Python 安装 [Anaconda国内镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
@@ -56,6 +59,8 @@
 ## 效率工具
 
 - [Zetero](https://www.zotero.org/)-开源的文献管理软件可以配合 Latex，word 等快速生成引用
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)-VSCode 服务器端代码编辑插件
+- [vscode-sftp](https://github.com/liximomo/vscode-sftp)-VSCode 同步本地文件编辑变动到服务器
 
 ### Windows
 
