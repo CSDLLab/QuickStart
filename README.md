@@ -42,6 +42,7 @@
 ## Linux 基础
 
 - Linux 基础教学[莫烦Linux入门教程](https://morvanzhou.github.io/tutorials/others/)
+- Tmux 终端复用工具[优雅地使用命令行：Tmux 终端复用](https://harttle.land/2015/11/06/tmux-startup.html)-SSH退出时可以保持命令继续运行
 
 ## 机器学习入门
 
